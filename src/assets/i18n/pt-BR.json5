@@ -3,7 +3,7 @@
 // NOTE 1 - Doesn't exist on en_EN
 
 // "repository.title.prefixDSpace": "DSpace ::",
-"repository.title.prefixDSpace": "DSpace ::",
+"repository.title.prefixDSpace": "",
 
 // "collection.edit.item-mapper-search-form.placeholder": "Search Item to Map...",
 "collection.edit.item-mapper-search-form.placeholder": "Pesquisar Item a Mapear...",
@@ -138,7 +138,7 @@
 "item.edit.return": "Voltar",
 
 // "repository.title.prefix": "DSpace Angular :: ",
-"repository.title.prefix": "DSpace ::",
+"repository.title.prefix": "",
 
 
 // "thumbnail.person.placeholder": "No Profile Picture Available",
@@ -1117,6 +1117,9 @@
   
   // "browse.title": "Browsing {{ collection }} by {{ field }} {{ value }}",
   "browse.title": "Pesquisar {{ collection }} por {{ field }} {{ value }}",
+
+  // "browse.title.page": "Browsing {{ collection }} by {{ field }} {{ value }}",
+  "browse.title.page": "Pesquisar {{ collection }} por {{ field }} {{ value }}",
   
   
   // "chips.remove": "Remove chip",
@@ -1440,7 +1443,7 @@
   
   
   // "communityList.tabTitle": "DSpace - Community List",
-  "communityList.tabTitle": "DSpace - Lista de Unidades Gestoras",
+  "communityList.tabTitle": "EB - Lista de Unidades Gestoras",
   
   // "communityList.title": "List of Communities",
   "communityList.title": "Lista de Unidades Gestoras",
@@ -1822,7 +1825,7 @@
   "dso-selector.create.community.sub-level": "Criar uma comunidade em",
   
   // "dso-selector.create.community.top-level": "Create a new top-level community",
-  "dso-selector.create.community.top-level": "Criar uma comunidade base (raiz)",
+  "dso-selector.create.community.top-level": "Criar uma comunidade UG (raiz)",
   
   // "dso-selector.create.item.head": "New item",
   "dso-selector.create.item.head": "Novo item",
@@ -2128,7 +2131,7 @@
   "home.breadcrumbs": "Home",
   
   // "home.title": "DSpace Angular :: Home",
-  "home.title": "DSpace :: Início",
+  "home.title": " EB: Página Inicial",
   
   // "home.top-level-communities.head": "Communities in DSpace",
   "home.top-level-communities.head": "Comunidades",
