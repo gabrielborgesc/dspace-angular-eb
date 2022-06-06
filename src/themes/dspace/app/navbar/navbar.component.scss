@@ -44,7 +44,8 @@ nav.navbar {
 }
 
 a.navbar-brand img {
-  max-height: var(--ds-header-logo-height);
+  // max-height: var(--ds-header-logo-height);
+  height : 60px
 }
 
 .navbar-nav {
