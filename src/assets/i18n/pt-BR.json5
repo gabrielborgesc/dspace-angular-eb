@@ -21,7 +21,8 @@
 "idle.modal.extend-session":"Continuar a Sessão",
 
 
-
+// "feed.description": "Syndication feed",
+"feed.description": "Dados da distribuição",
 
 
 // NOTE 2 - Add to other languages - needed for OpenAIRE compliance - relations between entities
@@ -226,10 +227,10 @@
    "401.unauthorized": "Não Autorizado",
   
   // "403.help": "You don't have permission to access this page. You can use the button below to get back to the home page.",
-  "403.help": "Não está autorizado a aceder a esta página. Use o botão abaixo para regressar à página inicial.",
+  "403.help": "Não está autorizado a acessar esta página. Use o botão abaixo para voltar à página inicial.",
   
   // "403.link.home-page": "Take me to the home page",
-  "403.link.home-page": "Regresso à página inicial",
+  "403.link.home-page": "Voltar à página inicial",
   
   // "403.forbidden": "forbidden",
   "403.forbidden": "Não Autorizado",
@@ -501,8 +502,6 @@
   // "admin.registries.schema.title": "DSpace Angular :: Metadata Schema Registry",
   "admin.registries.schema.title": "DSpace :: Registo de Esquema de Metadados",
   
-  
-  
   // "admin.access-control.epeople.actions.delete": "Delete EPerson",
   "admin.access-control.epeople.actions.delete": "Apagar Usuário",
   
@@ -510,7 +509,7 @@
   "admin.access-control.epeople.actions.impersonate": "Assumir o papel do Usuário",
   
   // "admin.access-control.epeople.actions.reset": "Reset password",
-  "admin.access-control.epeople.actions.reset": "Redefinir password",
+  "admin.access-control.epeople.actions.reset": "Redefinir senha",
   
   // "admin.access-control.epeople.actions.stop-impersonating": "Stop impersonating EPerson",
   "admin.access-control.epeople.actions.stop-impersonating": "Deixar de assumir o papel do Usuário",
@@ -1003,13 +1002,13 @@
   "bitstream.edit.form.selectedFormat.unknown": "Formato não está na lista",
   
   // "bitstream.edit.notifications.error.format.title": "An error occurred saving the bitstream's format",
-  "bitstream.edit.notifications.error.format.title": "Ocorreu um erro ao guardar o formto do ficheiro",
+  "bitstream.edit.notifications.error.format.title": "Ocorreu um erro ao Salvar o formto do ficheiro",
   
   // "bitstream.edit.notifications.saved.content": "Your changes to this bitstream were saved.",
-  "bitstream.edit.notifications.saved.content": "As alterações aos ficheiro foram guardadas.",
+  "bitstream.edit.notifications.saved.content": "As alterações aos ficheiro foram salvas.",
   
   // "bitstream.edit.notifications.saved.title": "Bitstream saved",
-  "bitstream.edit.notifications.saved.title": "Ficheiro guardado",
+  "bitstream.edit.notifications.saved.title": "Ficheiro salvo",
   
   // "bitstream.edit.title": "Edit bitstream",
   "bitstream.edit.title": "Editar ficheiro",
@@ -1324,16 +1323,16 @@
   "collection.edit.tabs.source.notifications.discarded.title": "Alterações descartadas",
   
   // "collection.edit.tabs.source.notifications.invalid.content": "Your changes were not saved. Please make sure all fields are valid before you save.",
-  "collection.edit.tabs.source.notifications.invalid.content": "As suas alterações não foram guardadas. Confirme se todos os campos estão válidos antes de guardar.",
+  "collection.edit.tabs.source.notifications.invalid.content": "As suas alterações não foram salvas. Confirme se todos os campos estão válidos antes de Salvar.",
   
   // "collection.edit.tabs.source.notifications.invalid.title": "Metadata invalid",
   "collection.edit.tabs.source.notifications.invalid.title": "Metadados inválidos",
   
   // "collection.edit.tabs.source.notifications.saved.content": "Your changes to this collection's content source were saved.",
-  "collection.edit.tabs.source.notifications.saved.content": "As alterações neta coleção foram guardadas.",
+  "collection.edit.tabs.source.notifications.saved.content": "As alterações neta coleção foram salvas.",
   
   // "collection.edit.tabs.source.notifications.saved.title": "Content Source saved",
-  "collection.edit.tabs.source.notifications.saved.title": "Conteúdo fonte guardado",
+  "collection.edit.tabs.source.notifications.saved.title": "Conteúdo fonte salvo",
   
   // "collection.edit.tabs.source.title": "Collection Edit - Content Source",
   "collection.edit.tabs.source.title": "Editar Coleção - Conteúdo fonte",
@@ -1709,7 +1708,7 @@
   "cookies.consent.decline": "Rejeitar",
   
   // "cookies.consent.content-notice.description": "We collect and process your personal information for the following purposes: <strong>Authentication, Preferences, Acknowledgement and Statistics</strong>. <br/> To learn more, please read our {privacyPolicy}.",
-  "cookies.consent.content-notice.description": "Coletamos e processamos informação pessoal para os seguintes propósitos: <strong>Autenticação, Guardar Preferências, Termos de Uso e Estatísticas</strong>. <br/> To learn more, please read our {privacyPolicy}.",
+  "cookies.consent.content-notice.description": "Coletamos e processamos informação pessoal para os seguintes propósitos: <strong>Autenticação, Salvar Preferências, Termos de Uso e Estatísticas</strong>. <br/> To learn more, please read our {privacyPolicy}.",
   
   // "cookies.consent.content-notice.learnMore": "Customize",
   "cookies.consent.content-notice.learnMore": "Pesonalizar",
@@ -1739,7 +1738,7 @@
   "cookies.consent.app.title.preferences": "Preferências",
   
   // "cookies.consent.app.description.preferences": "Required for saving your preferences",
-  "cookies.consent.app.description.preferences": "Obrigatório para guardar as suas preferências",
+  "cookies.consent.app.description.preferences": "Obrigatório para Salvar as suas preferências",
   
   
   
@@ -1747,7 +1746,7 @@
   "cookies.consent.app.title.acknowledgement": "Termos de Uso",
   
   // "cookies.consent.app.description.acknowledgement": "Required for saving your acknowledgements and consents",
-  "cookies.consent.app.description.acknowledgement": "Requerido para guardar os Termos de uso e Consentimento",
+  "cookies.consent.app.description.acknowledgement": "Requerido para Salvar os Termos de uso e Consentimento",
   
   
   
@@ -1984,16 +1983,16 @@
   "forgot-email.form.email": "Endereço Eletrónico *",
   
   // "forgot-email.form.email.error.required": "Please fill in an email address",
-  "forgot-email.form.email.error.required": "Indique um endereço de correio eletrónico",
+  "forgot-email.form.email.error.required": "Indique um endereço de email",
   
   // "forgot-email.form.email.error.pattern": "Please fill in a valid email address",
-  "forgot-email.form.email.error.pattern": "Indique um endereço de correio eletrónico válido",
+  "forgot-email.form.email.error.pattern": "Indique um endereço de email válido",
   
   // "forgot-email.form.email.hint": "This address will be verified and used as your login name.",
-  "forgot-email.form.email.hint": "Este endereço de correio eletrónico será validado e usado como o seu nome de Usuário para autenticação.",
+  "forgot-email.form.email.hint": "Este endereço de email será validado e usado como o seu nome de Usuário para autenticação.",
   
   // "forgot-email.form.submit": "Submit",
-  "forgot-email.form.submit": "Guardar",
+  "forgot-email.form.submit": "Salvar",
   
   // "forgot-email.form.success.head": "Verification email sent",
   "forgot-email.form.success.head": "Email de Confirmação enviado",
@@ -2005,7 +2004,7 @@
   "forgot-email.form.error.head": "Erro ao tentar registar este email",
   
   // "forgot-email.form.error.content": "An error occured when registering the following email address: {{ email }}",
-  "forgot-email.form.error.content": "Ocorreu um erro ao tentar registar o seguinte endereço de correio eletrónico: {{ email }}",
+  "forgot-email.form.error.content": "Ocorreu um erro ao tentar registar o seguinte endereço de email: {{ email }}",
   
   
   
@@ -2037,7 +2036,7 @@
   "forgot-password.form.error.empty-password": "Indique uma senha na caixa abaixo.",
   
   // "forgot-password.form.error.matching-passwords": "The passwords do not match.",
-  "forgot-password.form.error.matching-passwords": "As palavras-chave não coincidem.",
+  "forgot-password.form.error.matching-passwords": "As senhas não coincidem.",
   
   // "forgot-password.form.error.password-length": "The password should be at least 6 characters long.",
   "forgot-password.form.error.password-length": "A senha deve ter pelo menos 6 caracteres.",
@@ -2129,7 +2128,7 @@
   "form.search-help": "Clique aqui para procurar por uma correspondência",
   
   // "form.submit": "Submit",
-  "form.submit": "Guardar",
+  "form.submit": "Salvar",
   
   
   
@@ -2164,7 +2163,7 @@
   "info.end-user-agreement.buttons.cancel": "Cancelar",
   
   // "info.end-user-agreement.buttons.save": "Save",
-  "info.end-user-agreement.buttons.save": "Guardar",
+  "info.end-user-agreement.buttons.save": "Salvar",
   
   // "info.end-user-agreement.head": "End User Agreement",
     "info.end-user-agreement.head": "Termos de Uso",
@@ -2318,16 +2317,16 @@
   "item.edit.bitstreams.notifications.remove.failed.title": "Erro ao apagar ficheiro",
   
   // "item.edit.bitstreams.notifications.remove.saved.content": "Your removal changes to this item's bitstreams have been saved.",
-  "item.edit.bitstreams.notifications.remove.saved.content": "A alteração de remoção do ficheiro deste item foram guardadas.",
+  "item.edit.bitstreams.notifications.remove.saved.content": "A alteração de remoção do ficheiro deste item foram salvas.",
   
   // "item.edit.bitstreams.notifications.remove.saved.title": "Removal changes saved",
-  "item.edit.bitstreams.notifications.remove.saved.title": "Alterações de remoção guardadas",
+  "item.edit.bitstreams.notifications.remove.saved.title": "Alterações de remoção salvas",
   
   // "item.edit.bitstreams.reinstate-button": "Undo",
   "item.edit.bitstreams.reinstate-button": "Descartar",
   
   // "item.edit.bitstreams.save-button": "Save",
-  "item.edit.bitstreams.save-button": "Guardar",
+  "item.edit.bitstreams.save-button": "Salvar",
   
   // "item.edit.bitstreams.upload-button": "Upload",
   "item.edit.bitstreams.upload-button": "Carregar",
@@ -2871,7 +2870,7 @@
   "item.page.relationships.isOrgUnitOfProject": "Projetos",
   
   // "item.page.subject": "Keywords",
-  "item.page.subject": "Palavras-chave",
+  "item.page.subject": "senhas",
   
   // "item.page.uri": "URI",
   "item.page.uri": "URI",
@@ -3019,7 +3018,7 @@
   "journalissue.page.journal-title": "Título da Revista",
   
   // "journalissue.page.keyword": "Keywords",
-  "journalissue.page.keyword": "Palavras-chave",
+  "journalissue.page.keyword": "senhas",
   
   // "journalissue.page.number": "Number",
   "journalissue.page.number": "Número de Páginas",
@@ -3115,7 +3114,7 @@
   "login.form.header": "Por favor entre no repositório",
   
   // "login.form.new-user": "New user? Click here to register.",
-  "login.form.new-user": "Novo Usuário? Clique aqui para se registar.",
+  "login.form.new-user": "Novo Usuário? Clique aqui para se cadastrar.",
   
   // "login.form.or-divider": "or",
   "login.form.or-divider": "ou",
@@ -3636,7 +3635,7 @@
   "process.new.cancel": "Cancelar",
   
   // "process.new.submit": "Submit",
-  "process.new.submit": "Guardar",
+  "process.new.submit": "Salvar",
   
   // "process.new.select-script": "Script",
   "process.new.select-script": "Script",
@@ -3788,7 +3787,7 @@
   "profile.metadata.form.error.lastname.required": "O Apelido é obrigatório",
   
   // "profile.metadata.form.label.email": "Email Address",
-  "profile.metadata.form.label.email": "Endereço de correio eletrónico",
+  "profile.metadata.form.label.email": "Endereço de email",
   
   // "profile.metadata.form.label.firstname": "First Name",
   "profile.metadata.form.label.firstname": "Nome",
@@ -3803,10 +3802,10 @@
   "profile.metadata.form.label.phone": "Contacto telefónico",
   
   // "profile.metadata.form.notifications.success.content": "Your changes to the profile were saved.",
-  "profile.metadata.form.notifications.success.content": "As alterações ao perfil foram guardadas.",
+  "profile.metadata.form.notifications.success.content": "As alterações ao perfil foram salvas.",
   
   // "profile.metadata.form.notifications.success.title": "Profile saved",
-  "profile.metadata.form.notifications.success.title": "Perfil guardado",
+  "profile.metadata.form.notifications.success.title": "Perfil salvo",
   
   // "profile.notifications.warning.no-changes.content": "No changes were made to the Profile.",
   "profile.notifications.warning.no-changes.content": "Não foram efetuadas alterações ao perfil.",
@@ -3815,7 +3814,7 @@
   "profile.notifications.warning.no-changes.title": "Sem alterações",
   
   // "profile.security.form.error.matching-passwords": "The passwords do not match.",
-  "profile.security.form.error.matching-passwords": "As palavras-chave não coincidem.",
+  "profile.security.form.error.matching-passwords": "As senhas não coincidem.",
   
   // "profile.security.form.error.password-length": "The password should be at least 6 characters long.",
   "profile.security.form.error.password-length": "A senha deve ter pelo menos 6 caracteres.",
@@ -3824,13 +3823,13 @@
   "profile.security.form.info": "Opcionalmente, pode incluir a nova senha na primeira caixa de texto e confirmar a mesma incluindo-a novamente na segunda caixa de texto. Deverá possuir pelo menos 6 caracteres.",
   
   // "profile.security.form.label.password": "Password",
-  "profile.security.form.label.password": "senha",
+  "profile.security.form.label.password": "Senha",
   
   // "profile.security.form.label.passwordrepeat": "Retype to confirm",
   "profile.security.form.label.passwordrepeat": "Insira novamente para confirmar",
   
   // "profile.security.form.notifications.success.content": "Your changes to the password were saved.",
-  "profile.security.form.notifications.success.content": "As alterações à senha foram guardadas.",
+  "profile.security.form.notifications.success.content": "As alterações à senha foram salvas.",
   
   // "profile.security.form.notifications.success.title": "Password saved",
   "profile.security.form.notifications.success.title": "senha guardada",
@@ -3842,7 +3841,7 @@
   "profile.security.form.notifications.error.not-long-enough": "A senha deve ter pelo menos 6 caracteres.",
   
   // "profile.security.form.notifications.error.not-same": "The provided passwords are not the same.",
-  "profile.security.form.notifications.error.not-same": "As palavras-chave fornecidas não coincidem.",
+  "profile.security.form.notifications.error.not-same": "As senhas fornecidas não coincidem.",
   
   // "profile.title": "Update Profile",
   "profile.title": "Atualizar Perfil",
@@ -3871,7 +3870,7 @@
   "project.page.id": "ID",
   
   // "project.page.keyword": "Keywords",
-  "project.page.keyword": "Palavras-chave",
+  "project.page.keyword": "senhas",
   
   // "project.page.status": "Status",
   "project.page.status": "Estado",
@@ -3925,7 +3924,7 @@
   "register-page.create-profile.identification.header": "Identificação",
   
   // "register-page.create-profile.identification.email": "Email Address",
-  "register-page.create-profile.identification.email": "Endereço de Correio Eletrónico",
+  "register-page.create-profile.identification.email": "Endereço de email",
   
   // "register-page.create-profile.identification.first-name": "First Name *",
   "register-page.create-profile.identification.first-name": "Nome *",
@@ -3961,7 +3960,7 @@
   "register-page.create-profile.security.error.empty-password": "Inclua uma senha na caixa de texto abaixo.",
   
   // "register-page.create-profile.security.error.matching-passwords": "The passwords do not match.",
-  "register-page.create-profile.security.error.matching-passwords": "As palavras-chave não coincidem.",
+  "register-page.create-profile.security.error.matching-passwords": "As senhas não coincidem.",
   
   // "register-page.create-profile.security.error.password-length": "The password should be at least 6 characters long.",
   "register-page.create-profile.security.error.password-length": "A senha deve possuir pelo menos 6 caracteres.",
@@ -3989,7 +3988,7 @@
   "register-page.registration.info": "Registe uma conta de Usuário para subscrever novos conteúdos das coleções e depositar itens no repositório.",
   
   // "register-page.registration.email": "Email Address *",
-  "register-page.registration.email": "Endereço de Correio Eletrónico *",
+  "register-page.registration.email": "Endereço de email *",
   
   // "register-page.registration.email.error.required": "Please fill in an email address",
   "register-page.registration.email.error.required": "Insira um endereço de email",
@@ -3998,7 +3997,7 @@
   "register-page.registration.email.error.pattern": "Insira um endereço de email válido",
   
   // "register-page.registration.email.hint": "This address will be verified and used as your login name.",
-  "register-page.registration.email.hint": "Este endereço de correio eletrónico será verificado e usado para iniciar sessão.",
+  "register-page.registration.email.hint": "Este endereço de email será verificado e usado para iniciar sessão.",
   
   // "register-page.registration.submit": "Register",
   "register-page.registration.submit": "Registo",
@@ -4010,10 +4009,10 @@
   "register-page.registration.success.content": "Foi enviado um email para {{ email }} com instruções e um endereço especial para confirmação.",
   
   // "register-page.registration.error.head": "Error when trying to register email",
-  "register-page.registration.error.head": "Erro ao registar o endereço de correio eletrónico",
+  "register-page.registration.error.head": "Erro ao registar o endereço de email",
   
   // "register-page.registration.error.content": "An error occured when registering the following email address: {{ email }}",
-  "register-page.registration.error.content": "Ocorreu um erro ao registar o seguinte endereço de correio eletrónico: {{ email }}",
+  "register-page.registration.error.content": "Ocorreu um erro ao registar o seguinte endereço de email: {{ email }}",
   
   
   
@@ -4595,10 +4594,10 @@
   "submission.general.discard.submit": "Cancelar",
   
   // "submission.general.save": "Save",
-  "submission.general.save": "Guardar",
+  "submission.general.save": "Salvar",
   
   // "submission.general.save-later": "Save for later",
-  "submission.general.save-later": "Guardar para continuar depois",
+  "submission.general.save-later": "Salvar para continuar depois",
   
   
   // "submission.import-external.page.title": "Import metadata from an external source",
@@ -4978,10 +4977,10 @@
   "submission.sections.describe.relationship-lookup.selection-tab.title.arxiv": "Resultados da Pesquisa",
   
   // "submission.sections.describe.relationship-lookup.name-variant.notification.content": "Would you like to save \"{{ value }}\" as a name variant for this person so you and others can reuse it for future submissions? If you don\'t you can still use it for this submission.",
-  "submission.sections.describe.relationship-lookup.name-variant.notification.content": "Pretende guardar \"{{ value }}\" como um nome alternativo para esta pessoa permitindo a sua reutilização por outros em futuras submissões? Se não, pode usar apenas nesta submissão.",
+  "submission.sections.describe.relationship-lookup.name-variant.notification.content": "Pretende Salvar \"{{ value }}\" como um nome alternativo para esta pessoa permitindo a sua reutilização por outros em futuras submissões? Se não, pode usar apenas nesta submissão.",
   
   // "submission.sections.describe.relationship-lookup.name-variant.notification.confirm": "Save a new name variant",
-  "submission.sections.describe.relationship-lookup.name-variant.notification.confirm": "Guardar um Nome alternativo",
+  "submission.sections.describe.relationship-lookup.name-variant.notification.confirm": "Salvar um Nome alternativo",
   
   // "submission.sections.describe.relationship-lookup.name-variant.notification.decline": "Use only for this submission",
   "submission.sections.describe.relationship-lookup.name-variant.notification.decline": "Usar apenas para esta submissão",
@@ -5135,7 +5134,7 @@
   "submission.sections.upload.no-file-uploaded": "Nenhum ficheiro enviado ainda.",
   
   // "submission.sections.upload.save-metadata": "Save metadata",
-  "submission.sections.upload.save-metadata": "Guardar metadados",
+  "submission.sections.upload.save-metadata": "Salvar metadados",
   
   // "submission.sections.upload.undo": "Cancel",
   "submission.sections.upload.undo": "Cancelar",
@@ -5283,13 +5282,13 @@
   "uploader.queue-length": "Tamanho da fila",
   
   // "virtual-metadata.delete-item.info": "Select the types for which you want to save the virtual metadata as real metadata",
-  "virtual-metadata.delete-item.info": "Selecione os tipos para os quais pretende guardar os metadados virtuais como metadados reais",
+  "virtual-metadata.delete-item.info": "Selecione os tipos para os quais pretende Salvar os metadados virtuais como metadados reais",
   
   // "virtual-metadata.delete-item.modal-head": "The virtual metadata of this relation",
   "virtual-metadata.delete-item.modal-head": "Os metadados virtuais desta relação",
   
   // "virtual-metadata.delete-relationship.modal-head": "Select the items for which you want to save the virtual metadata as real metadata",
-  "virtual-metadata.delete-relationship.modal-head": "Selecione os tipos para os quais pretende guardar os metadados virtuais como metadados reais",
+  "virtual-metadata.delete-relationship.modal-head": "Selecione os tipos para os quais pretende Salvar os metadados virtuais como metadados reais",
   
   
   
