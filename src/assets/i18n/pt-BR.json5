@@ -1443,7 +1443,7 @@
   
   
   // "communityList.tabTitle": "DSpace - Community List",
-  "communityList.tabTitle": "EB - Lista de Unidades Gestoras",
+  "communityList.tabTitle": "Portal de Licitações - EB: Lista de Unidades Gestoras",
   
   // "communityList.title": "List of Communities",
   "communityList.title": "Lista de Unidades Gestoras",
@@ -1811,6 +1811,15 @@
   "curation.form.handle.hint": "Dica: Introduza [o-seu-prefixo-handle]/0 para executar a tarefa em todo o repositório (nem todas as tarefas são compatíveis com esta opção)",
   
   
+  // "dso-selector.set-scope.community.head": "Select a search scope",
+  "dso-selector.set-scope.community.head": "Selecione um escopo de pesquisa",
+
+  // "dso-selector.set-scope.community.button": "Search all of DSpace",
+  "dso-selector.set-scope.community.button": "Pesquisar em todas as Unidades Gestoras",
+
+  // "dso-selector.set-scope.community.input-header": "Search for a community or collection",
+  "dso-selector.set-scope.community.input-header": "Pesquisar por comunidade ou coleção",
+
   
   // "dso-selector.create.collection.head": "New collection",
   "dso-selector.create.collection.head": "Nova coleção",
@@ -2131,13 +2140,13 @@
   "home.breadcrumbs": "Home",
   
   // "home.title": "DSpace Angular :: Home",
-  "home.title": " EB: Página Inicial",
+  "home.title": "Portal de Licitações - EB",
   
   // "home.top-level-communities.head": "Communities in DSpace",
-  "home.top-level-communities.head": "Comunidades",
+  "home.top-level-communities.head": "Unidades Gestoras",
   
   // "home.top-level-communities.help": "Select a community to browse its collections.",
-  "home.top-level-communities.help": "Selecione uma comunidade para navegar nas suas coleções",
+  "home.top-level-communities.help": "Selecione uma UG para visualizar suas licitações.",
   
   // "info.end-user-agreement.accept": "I have read and I agree to the End User Agreement",
   "info.end-user-agreement.accept": "Li e aceito os Termos de Uso",
