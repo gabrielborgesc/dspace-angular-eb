@@ -257,25 +257,25 @@
   "admin.curation-tasks.header": "Tarefas de Curadoria",
   
   // "admin.registries.bitstream-formats.breadcrumbs": "Format registry",
-  "admin.registries.bitstream-formats.breadcrumbs": "Registo de Formatos de Ficheiro",
+  "admin.registries.bitstream-formats.breadcrumbs": "Registo de Formatos de arquivo",
   
   // "admin.registries.bitstream-formats.create.breadcrumbs": "Bitstream format",
-  "admin.registries.bitstream-formats.create.breadcrumbs": "Registo de Formatos de Ficheiro",
+  "admin.registries.bitstream-formats.create.breadcrumbs": "Registo de Formatos de arquivo",
   
   // "admin.registries.bitstream-formats.create.failure.content": "An error occurred while creating the new bitstream format.",
-  "admin.registries.bitstream-formats.create.failure.content": "Um erro ocorreu durante a criação do novo formato de ficheiro.",
+  "admin.registries.bitstream-formats.create.failure.content": "Um erro ocorreu durante a criação do novo formato de arquivo.",
   
   // "admin.registries.bitstream-formats.create.failure.head": "Failure",
   "admin.registries.bitstream-formats.create.failure.head": "Falha",
   
   // "admin.registries.bitstream-formats.create.head": "Create Bitstream format",
-  "admin.registries.bitstream-formats.create.head": "Criar formato de Ficheiro",
+  "admin.registries.bitstream-formats.create.head": "Criar formato de arquivo",
   
   // "admin.registries.bitstream-formats.create.new": "Add a new bitstream format",
-  "admin.registries.bitstream-formats.create.new": "Adicionar um novo formato de ficheiro",
+  "admin.registries.bitstream-formats.create.new": "Adicionar um novo formato de arquivo",
   
   // "admin.registries.bitstream-formats.create.success.content": "The new bitstream format was successfully created.",
-  "admin.registries.bitstream-formats.create.success.content": "O novo formato de ficheiro foi criado com sucesso.",
+  "admin.registries.bitstream-formats.create.success.content": "O novo formato de arquivo foi criado com sucesso.",
   
   // "admin.registries.bitstream-formats.create.success.head": "Success",
   "admin.registries.bitstream-formats.create.success.head": "Sucesso",
@@ -293,10 +293,10 @@
   "admin.registries.bitstream-formats.delete.success.head": "Sucesso",
   
   // "admin.registries.bitstream-formats.description": "This list of bitstream formats provides information about known formats and their support level.",
-  "admin.registries.bitstream-formats.description": "Esta lista de formatos de ficheiro apresenta informações sobre formatos de arquivos conhecidos e os seus níveis de suporte.",
+  "admin.registries.bitstream-formats.description": "Esta lista de formatos de arquivo apresenta informações sobre formatos de arquivos conhecidos e os seus níveis de suporte.",
   
   // "admin.registries.bitstream-formats.edit.breadcrumbs": "Bitstream format",
-  "admin.registries.bitstream-formats.edit.breadcrumbs": "Formatos de Ficheiro",
+  "admin.registries.bitstream-formats.edit.breadcrumbs": "Formatos de arquivo",
   
   // "admin.registries.bitstream-formats.edit.description.hint": "",
   "admin.registries.bitstream-formats.edit.description.hint": "",
@@ -305,13 +305,13 @@
   "admin.registries.bitstream-formats.edit.description.label": "Descrição",
   
   // "admin.registries.bitstream-formats.edit.extensions.hint": "Extensions are file extensions that are used to automatically identify the format of uploaded files. You can enter several extensions for each format.",
-  "admin.registries.bitstream-formats.edit.extensions.hint": "Extensões são extensões de ficheiro que são usadas para identificar automaticamente o formato dos arquivos enviados. Pode informar várias extensões para cada formato.",
+  "admin.registries.bitstream-formats.edit.extensions.hint": "Extensões são extensões de arquivo que são usadas para identificar automaticamente o formato dos arquivos enviados. Pode informar várias extensões para cada formato.",
   
   // "admin.registries.bitstream-formats.edit.extensions.label": "File extensions",
-  "admin.registries.bitstream-formats.edit.extensions.label": "Extensões de ficheiro",
+  "admin.registries.bitstream-formats.edit.extensions.label": "Extensões de arquivo",
   
   // "admin.registries.bitstream-formats.edit.extensions.placeholder": "Enter a file extension without the dot",
-  "admin.registries.bitstream-formats.edit.extensions.placeholder": "Indique uma extenção de ficheiro sem o ponto",
+  "admin.registries.bitstream-formats.edit.extensions.placeholder": "Indique uma extenção de arquivo sem o ponto",
   
   // "admin.registries.bitstream-formats.edit.failure.content": "An error occurred while editing the bitstream format.",
   "admin.registries.bitstream-formats.edit.failure.content": "Ocorreu um erro ao editar o formato de bitstream.",
@@ -353,7 +353,7 @@
   "admin.registries.bitstream-formats.edit.supportLevel.label": "Nível de suporte",
   
   // "admin.registries.bitstream-formats.head": "Bitstream Format Registry",
-  "admin.registries.bitstream-formats.head": "Registo de Formato de Ficheiro",
+  "admin.registries.bitstream-formats.head": "Registo de Formato de arquivo",
   
   // "admin.registries.bitstream-formats.no-items": "No bitstream formats to show.",
   "admin.registries.bitstream-formats.no-items": "Nenhum formato de bitstream para exibir.",
@@ -389,7 +389,7 @@
   "admin.registries.bitstream-formats.table.supportLevel.head": "Nível de Suporte",
   
   // "admin.registries.bitstream-formats.title": "DSpace Angular :: Bitstream Format Registry",
-  "admin.registries.bitstream-formats.title": "DSpace :: Registo de Formato de Ficheiro",
+  "admin.registries.bitstream-formats.title": "DSpace :: Registo de Formato de arquivo",
   
   // "admin.registries.metadata.breadcrumbs": "Metadata registry",
   "admin.registries.metadata.breadcrumbs": "Registo de Metadados",
@@ -946,10 +946,10 @@
   "admin.metadata-import.page.help": "Pode arrastar ou procurar arquivos CSV que contenham operações em lote de metadados",
   
   // "admin.metadata-import.page.dropMsg": "Drop a metadata CSV to import",
-  "admin.metadata-import.page.dropMsg": "Arraste um ficheiro CSV com metadados para importar",
+  "admin.metadata-import.page.dropMsg": "Arraste um arquivo CSV com metadados para importar",
   
   // "admin.metadata-import.page.dropMsgReplace": "Drop to replace the metadata CSV to import",
-  "admin.metadata-import.page.dropMsgReplace": "Arraste um ficheiro CSV para substituir o atual",
+  "admin.metadata-import.page.dropMsgReplace": "Arraste um arquivo CSV para substituir o atual",
   
   // "admin.metadata-import.page.button.return": "Return",
   "admin.metadata-import.page.button.return": "Voltar",
@@ -958,7 +958,7 @@
   "admin.metadata-import.page.button.proceed": "Continuar",
   
   // "admin.metadata-import.page.error.addFile": "Select file first!",
-  "admin.metadata-import.page.error.addFile": "Selecione um ficheiro!",
+  "admin.metadata-import.page.error.addFile": "Selecione um arquivo!",
   
   
   
@@ -975,31 +975,31 @@
   "bitstream.edit.bitstream": "arquivos: ",
   
   // "bitstream.edit.form.description.hint": "Optionally, provide a brief description of the file, for example \"<i>Main article</i>\" or \"<i>Experiment data readings</i>\".",
-  "bitstream.edit.form.description.hint": "Opcionalmente, pode indicar uma breve descrição do ficheiro, por exemplo \"<i>Texto Principal</i>\" ou \"<i>Dados da experiência</i>\".",
+  "bitstream.edit.form.description.hint": "Opcionalmente, pode indicar uma breve descrição do arquivo, por exemplo \"<i>Texto Principal</i>\" ou \"<i>Dados da experiência</i>\".",
   
   // "bitstream.edit.form.description.label": "Description",
   "bitstream.edit.form.description.label": "Descrição",
   
   // "bitstream.edit.form.embargo.hint": "The first day from which access is allowed. <b>This date cannot be modified on this form.</b> To set an embargo date for a bitstream, go to the <i>Item Status</i> tab, click <i>Authorizations...</i>, create or edit the bitstream's <i>READ</i> policy, and set the <i>Start Date</i> as desired.",
-  "bitstream.edit.form.embargo.hint": "O primeiro dia a partir do qual o acesso é permitido. <b>A data não pode ser alterada neste formulário.</b> Para definir uma data de embargo para um ficheiro, vá à aba <i>Estdo do Item</i>, clique em <i>Autorizações...</i>, crie ou edite a política <i>READ</i> do ficheiro, e definda uma <i>Data de Início</i>.",
+  "bitstream.edit.form.embargo.hint": "O primeiro dia a partir do qual o acesso é permitido. <b>A data não pode ser alterada neste formulário.</b> Para definir uma data de embargo para um arquivo, vá à aba <i>Estdo do Item</i>, clique em <i>Autorizações...</i>, crie ou edite a política <i>READ</i> do arquivo, e definda uma <i>Data de Início</i>.",
   
   // "bitstream.edit.form.embargo.label": "Embargo until specific date",
   "bitstream.edit.form.embargo.label": "Embargo até uma data específica",
   
   // "bitstream.edit.form.fileName.hint": "Change the filename for the bitstream. Note that this will change the display bitstream URL, but old links will still resolve as long as the sequence ID does not change.",
-  "bitstream.edit.form.fileName.hint": "Altere o nome do ficheiro. Isto vai alterar o endereço de apresentação do ficheiro, mas o link antigo redireciona para o novo desde que não seja alterada a sequência dos identificadores.",
+  "bitstream.edit.form.fileName.hint": "Altere o nome do arquivo. Isto vai alterar o endereço de apresentação do arquivo, mas o link antigo redireciona para o novo desde que não seja alterada a sequência dos identificadores.",
   
   // "bitstream.edit.form.fileName.label": "Filename",
-  "bitstream.edit.form.fileName.label": "Nome do ficheiro",
+  "bitstream.edit.form.fileName.label": "Nome do arquivo",
   
   // "bitstream.edit.form.newFormat.label": "Describe new format",
   "bitstream.edit.form.newFormat.label": "Descreva o novo formato",
   
   // "bitstream.edit.form.newFormat.hint": "The application you used to create the file, and the version number (for example, \"<i>ACMESoft SuperApp version 1.5</i>\").",
-  "bitstream.edit.form.newFormat.hint": "A aplicação usada para criar o ficheiro e a respetiva versão (por exemplo, \"<i>ACMESoft SuperApp versão 1.5</i>\").",
+  "bitstream.edit.form.newFormat.hint": "A aplicação usada para criar o arquivo e a respetiva versão (por exemplo, \"<i>ACMESoft SuperApp versão 1.5</i>\").",
   
   // "bitstream.edit.form.primaryBitstream.label": "Primary bitstream",
-  "bitstream.edit.form.primaryBitstream.label": "Ficheiro primário",
+  "bitstream.edit.form.primaryBitstream.label": "arquivo primário",
   
   // "bitstream.edit.form.selectedFormat.hint": "If the format is not in the above list, <b>select \"format not in list\" above</b> and describe it under \"Describe new format\".",
   "bitstream.edit.form.selectedFormat.hint": "Se o formato não está na lista abaixo, <b>escolha \"Formato não está na lista\" </b> e desreva-o em \"Descreva o novo formato\".",
@@ -1011,16 +1011,16 @@
   "bitstream.edit.form.selectedFormat.unknown": "Formato não está na lista",
   
   // "bitstream.edit.notifications.error.format.title": "An error occurred saving the bitstream's format",
-  "bitstream.edit.notifications.error.format.title": "Ocorreu um erro ao Salvar o formto do ficheiro",
+  "bitstream.edit.notifications.error.format.title": "Ocorreu um erro ao Salvar o formto do arquivo",
   
   // "bitstream.edit.notifications.saved.content": "Your changes to this bitstream were saved.",
-  "bitstream.edit.notifications.saved.content": "As alterações aos ficheiro foram salvas.",
+  "bitstream.edit.notifications.saved.content": "As alterações aos arquivo foram salvas.",
   
   // "bitstream.edit.notifications.saved.title": "Bitstream saved",
-  "bitstream.edit.notifications.saved.title": "Ficheiro salvo",
+  "bitstream.edit.notifications.saved.title": "arquivo salvo",
   
   // "bitstream.edit.title": "Edit bitstream",
-  "bitstream.edit.title": "Editar ficheiro",
+  "bitstream.edit.title": "Editar arquivo",
   
   
   
@@ -1241,7 +1241,7 @@
   "collection.edit.logo.label": "Logotipo da Coleção",
   
   // "collection.edit.logo.notifications.add.error": "Uploading Collection logo failed. Please verify the content before retrying.",
-  "collection.edit.logo.notifications.add.error": "Falha ao carregar o logotipo da coleção. Verifique o ficheiro antes de tentar de novo.",
+  "collection.edit.logo.notifications.add.error": "Falha ao carregar o logotipo da coleção. Verifique o arquivo antes de tentar de novo.",
   
   // "collection.edit.logo.notifications.add.success": "Upload Collection logo successful.",
   "collection.edit.logo.notifications.add.success": "O logotipo da coleção foi carregado com sucesso.",
@@ -1782,7 +1782,7 @@
   "curation-task.task.noop.label": "NOOP",
   
   // "curation-task.task.profileformats.label": "Profile Bitstream Formats",
-  "curation-task.task.profileformats.label": "Perfil dos Formatos de Ficheiro",
+  "curation-task.task.profileformats.label": "Perfil dos Formatos de arquivo",
   
   // "curation-task.task.requiredmetadata.label": "Check for Required Metadata",
   "curation-task.task.requiredmetadata.label": "Verifica metadados obrigatórios",
@@ -1900,7 +1900,7 @@
   
   
   // "error.bitstream": "Error fetching bitstream",
-  "error.bitstream": "Erro ao aceder ao ficheiro",
+  "error.bitstream": "Erro ao aceder ao arquivo",
   
   // "error.browse-by": "Error fetching items",
   "error.browse-by": "Erro ao carregar itens",
@@ -2235,7 +2235,7 @@
   "item.bitstreams.upload.cancel": "Cancelar",
   
   // "item.bitstreams.upload.drop-message": "Drop a file to upload",
-  "item.bitstreams.upload.drop-message": "Arraste um ficheiro parCarregando",
+  "item.bitstreams.upload.drop-message": "Arraste um arquivo parCarregando",
   
   // "item.bitstreams.upload.item": "Item: ",
   "item.bitstreams.upload.item": "Item: ",
@@ -2247,10 +2247,10 @@
   "item.bitstreams.upload.notifications.bundle.created.title": "Pacote criado",
   
   // "item.bitstreams.upload.notifications.upload.failed": "Upload failed. Please verify the content before retrying.",
-  "item.bitstreams.upload.notifications.upload.failed": "O carregamento falhou. Verifique o ficheiro antes de tentar carregar de novo.",
+  "item.bitstreams.upload.notifications.upload.failed": "O carregamento falhou. Verifique o arquivo antes de tentar carregar de novo.",
   
   // "item.bitstreams.upload.title": "Upload bitstream",
-  "item.bitstreams.upload.title": "Carregar ficheiro",
+  "item.bitstreams.upload.title": "Carregar arquivo",
   
   
   
@@ -2288,7 +2288,7 @@
   "item.edit.bitstreams.edit.buttons.undo": "Descartar alterações",
   
   // "item.edit.bitstreams.empty": "This item doesn't contain any bitstreams. Click the upload button to create one.",
-  "item.edit.bitstreams.empty": "Este item não possui arquivos. Carregue um novo ficheiro.",
+  "item.edit.bitstreams.empty": "Este item não possui arquivos. Carregue um novo arquivo.",
   
   // "item.edit.bitstreams.headers.actions": "Actions",
   "item.edit.bitstreams.headers.actions": "Ações",
@@ -2327,10 +2327,10 @@
   "item.edit.bitstreams.notifications.outdated.title": "Alterações desatualizadas",
   
   // "item.edit.bitstreams.notifications.remove.failed.title": "Error deleting bitstream",
-  "item.edit.bitstreams.notifications.remove.failed.title": "Erro ao apagar ficheiro",
+  "item.edit.bitstreams.notifications.remove.failed.title": "Erro ao apagar arquivo",
   
   // "item.edit.bitstreams.notifications.remove.saved.content": "Your removal changes to this item's bitstreams have been saved.",
-  "item.edit.bitstreams.notifications.remove.saved.content": "A alteração de remoção do ficheiro deste item foram salvas.",
+  "item.edit.bitstreams.notifications.remove.saved.content": "A alteração de remoção do arquivo deste item foram salvas.",
   
   // "item.edit.bitstreams.notifications.remove.saved.title": "Removal changes saved",
   "item.edit.bitstreams.notifications.remove.saved.title": "Alterações de remoção salvas",
@@ -3062,7 +3062,7 @@
   
   
   // "loading.bitstream": "Loading bitstream...",
-  "loading.bitstream": "Carregando ficheiro...",
+  "loading.bitstream": "Carregando arquivo...",
   
   // "loading.bitstreams": "Loading bitstreams...",
   "loading.bitstreams": "Carregando arquivos...",
@@ -3512,7 +3512,7 @@
   "mydspace.upload.upload-failed-manyentries": "Fichiero não processado. Detetadas demasiadas entradas quando apenas é permitido um para arquivos.",
   
   // "mydspace.upload.upload-failed-moreonefile": "Unprocessable request. Only one file is allowed.",
-  "mydspace.upload.upload-failed-moreonefile": "Pedido não processado. Apenas é permitido um ficheiro.",
+  "mydspace.upload.upload-failed-moreonefile": "Pedido não processado. Apenas é permitido um arquivo.",
   
   // "mydspace.upload.upload-multiple-successful": "{{qty}} new workspace items created.",
   "mydspace.upload.upload-multiple-successful": "{{qty}} novo(s) item(ns) de espaço de trabalho criados.",
@@ -3660,10 +3660,10 @@
   "process.new.select-script.required": "É necessário um Script",
   
   // "process.new.parameter.file.upload-button": "Select file...",
-  "process.new.parameter.file.upload-button": "Selecionar ficheiro...",
+  "process.new.parameter.file.upload-button": "Selecionar arquivo...",
   
   // "process.new.parameter.file.required": "Please select a file",
-  "process.new.parameter.file.required": "Selecione um ficheiro",
+  "process.new.parameter.file.required": "Selecione um arquivo",
   
   // "process.new.parameter.string.required": "Parameter value is required",
   "process.new.parameter.string.required": "É necessário um valor no parâmetro",
@@ -3672,7 +3672,7 @@
   "process.new.parameter.type.value": "valor",
   
   // "process.new.parameter.type.file": "file",
-  "process.new.parameter.type.file": "ficheiro",
+  "process.new.parameter.type.file": "arquivo",
   
   // "process.new.parameter.required.missing": "The following parameters are required but still missing:",
   "process.new.parameter.required.missing": "Falta indicar os seguintes parâmetros obrigatórios:",
@@ -3725,7 +3725,7 @@
   "process.detail.output-files" : "arquivos do Output",
   
   // "process.detail.output-files.empty" : "This process doesn't contain any output files",
-  "process.detail.output-files.empty" : "Este processo não possui nenhum ficheiro de output",
+  "process.detail.output-files.empty" : "Este processo não possui nenhum arquivo de output",
   
   // "process.detail.script" : "Script",
   "process.detail.script" : "Script",
@@ -5135,16 +5135,16 @@
   "submission.sections.upload.header.policy.default.nolist": "Arquivos enviados na coleção {{collectionName}} serão acessiveis de acordo com o(s) seguinte(s) grupo(s):",
   
   // "submission.sections.upload.header.policy.default.withlist": "Please note that uploaded files in the {{collectionName}} collection will be accessible, in addition to what is explicitly decided for the single file, with the following group(s):",
-  "submission.sections.upload.header.policy.default.withlist": "Por favor note que os arquivos enviados à coleção {{collectionName}} serão acessíveis, de acordo com o que está explicitamente definido no ficheiro, no(s) seguinte(s) grupo(s):",
+  "submission.sections.upload.header.policy.default.withlist": "Por favor note que os arquivos enviados à coleção {{collectionName}} serão acessíveis, de acordo com o que está explicitamente definido no arquivo, no(s) seguinte(s) grupo(s):",
   
   // "submission.sections.upload.info": "Here you will find all the files currently in the item. You can update the file metadata and access conditions or <strong>upload additional files just dragging & dropping them everywhere in the page</strong>",
-  "submission.sections.upload.info": "Aqui encontra todos os arquivos que estão atualmente no item. Pode atualizar os metadados do ficheiro e condições de acesso ou <strong>carregar arquivos adicionais arrastando os arquivos em qualquer lugar desta página</strong>",
+  "submission.sections.upload.info": "Aqui encontra todos os arquivos que estão atualmente no item. Pode atualizar os metadados do arquivo e condições de acesso ou <strong>carregar arquivos adicionais arrastando os arquivos em qualquer lugar desta página</strong>",
   
   // "submission.sections.upload.no-entry": "No",
   "submission.sections.upload.no-entry": "Não",
   
   // "submission.sections.upload.no-file-uploaded": "No file uploaded yet.",
-  "submission.sections.upload.no-file-uploaded": "Nenhum ficheiro enviado ainda.",
+  "submission.sections.upload.no-file-uploaded": "Nenhum arquivo enviado ainda.",
   
   // "submission.sections.upload.save-metadata": "Save metadata",
   "submission.sections.upload.save-metadata": "Salvar metadados",
